@@ -20,8 +20,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
   </a>
   <a href="https://x.com/VidushanSa80497" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" alt="X (formerly Twitter)" width="30" height="30" />
-
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" alt="X" width="30" height="30" />
   </a>
 </p>
 
