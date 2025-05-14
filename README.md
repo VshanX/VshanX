@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Fullstack Developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akalankajayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="akalankajayasinghe" />
+  <img src="https://komarev.com/ghpvc/?username=VshanX&label=Profile%20views&color=0e75b6&style=flat" alt="VshanX" />
 </p>
 
 ---
 
 - 🌱 I’m currently learning **HNDIT at SLIATE**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/akalankajayasinghe)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/VshanX)
 - 📫 Reach me at **akalankadh@gmail.com**
 - ⚡ Fun fact: **I think I'm funny 😄**
 
@@ -47,9 +47,9 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akalankajayasinghe&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VshanX&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akalankajayasinghe&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VshanX&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
