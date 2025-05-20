@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vidushan Smarakoon</h1>
+<h1 align="center">Hey 👋, I'm Vidushan Samarakoon</h1>
 <h3 align="center">A passionate Fullstack Developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **HNDIT at SLIATE**
+- 🌱 I’m currently reading **HND-IT at SLIATE**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/VshanX)
 - 📫 Reach me at **thiwankasamarakoon6@gmail.com**
 - ⚡ Fun fact: **I think I'm funny 😄**
