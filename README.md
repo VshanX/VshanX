@@ -1,57 +1,116 @@
-<h1 align="center">Hey 👋, I'm Vidushan Samarakoon</h1>
-<h3 align="center">A passionate Fullstack Developer from Sri Lanka 🇱🇰</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VshanX&label=Profile%20views&color=0e75b6&style=flat" alt="VshanX" />
-</p>
-
----
-
-- 🌱 I’m currently reading **HND-IT at SLIATE**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/VshanX)
-- 📫 Reach me at **thiwankasamarakoon6@gmail.com**
-- ⚡ Fun fact: **I think I'm funny 😄**
+<div align="center">
+  <h1>👋 Hi, I'm Vidushan Samarakoon</h1>
+  <h3>A passionate Fullstack Developer from Sri Lanka 🇱🇰</h3>
+  <img src="https://komarev.com/ghpvc/?username=VshanX&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
-### 🌐 Connect with me
-<p align="left">
+### 🚀 About Me
+- 🎓 **Studying**: HND in Information Technology at SLIATE
+- 👨‍💻 **Projects**: Check out my work on [GitHub](https://github.com/VshanX)
+- 📫 **Contact**: Reach me at **thiwankasamarakoon6@gmail.com**
+- ⚡ **Fun Fact**: I think I'm funny, and my code sometimes tells better jokes than I do! 😄
+
+---
+
+### 🌐 Connect with Me
+<div align="center">
   <a href="https://www.linkedin.com/in/vidushan-samarakoon-435428287/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;"/>
   </a>
   <a href="https://x.com/VidushanSa80497" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" />
-
-
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 10px;"/>
   </a>
-</p>
+</div>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+</div>
 
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-</p>
+---
+
+### 🏆 Featured Projects
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <b>Project Name 1</b><br>
+        A brief description of your project. What does it do? What tech stack did you use?<br>
+        <a href="https://github.com/VshanX/project1">🔗 View on GitHub</a>
+      </td>
+      <td>
+        <b>Project Name 2</b><br>
+        A brief description of another project. Highlight its features and tech stack.<br>
+        <a href="https://github.com/VshanX/project2">🔗 View on GitHub</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VshanX&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VshanX&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VshanX&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VshanX&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+### ✨ Contributions
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VshanX&theme=transparent" alt="Contribution Streak" />
+</div>
+
+---
+
+<div align="center">
+  <p>💡 <i>Always learning, always coding!</i></p>
+</div>
+
+<style>
+  h1, h3 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  img {
+    transition: transform 0.3s ease-in-out;
+  }
+  img:hover {
+    transform: scale(1.1);
+  }
+  table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+  }
+  td {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  a {
+    text-decoration: none;
+    color: #0e75b6;
+    font-weight: bold;
+  }
+  a:hover {
+    color: #1a8cff;
+  }
+</style>
