@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+TECH+EXPLORER+%26+INNOVATOR;💻+FULL-STACK+DEVELOPER+IN+TRAINING;🔐+CYBERSECURITY+ENTHUSIAST;🎨+UI%2FUX+DESIGN+PASSIONATE;📊+BUSINESS+ANALYSIS+FOCUSED;🌟+ALWAYS+LEARNING+%26+EVOLVING" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=300&lines=🚀+TECH+EXPLORER+%26+INNOVATOR;💻+FULL-STACK+DEVELOPER+IN+TRAINING;🔐+CYBERSECURITY+ENTHUSIAST;🎨+UI%2FUX+DESIGN+PASSIONATE;📊+BUSINESS+ANALYSIS+FOCUSED;🌟+ALWAYS+LEARNING+%26+EVOLVING" alt="Dynamic Typing" />
 </div>
 
 <div align="center">
