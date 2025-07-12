@@ -65,7 +65,7 @@ vision: |
 
 ### 🎯 Fun Stats
 - 📅 **Coding since:** 2022
-- 🏆 **Projects completed:** 15+
+- 🏆 **Projects completed:** 10+
 - 🌐 **Languages spoken:** 3
 - ☕ **Coffee consumed:** ∞
 
@@ -126,7 +126,7 @@ vision: |
 - ⚖️ Legal case management module
 - 📊 Analytics dashboard for insights
 
-🔹 **Tech Stack:** `PHP` `MySQL` `JavaScript` `GIS API` `Bootstrap`
+🔹 **Tech Stack:** `React` `Express.JS` `MongoDB` `Node.JS` `GIS API` `TailwindCSS`
 
 🔹 **Status:** ✅ Completed & Deployed
 
