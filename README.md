@@ -104,63 +104,6 @@ vision: |
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Featured Projects
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏛️ Grama Sevaka System
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300" align="right">
-
-**A comprehensive community management platform**
-
-🔹 **Features:**
-- 🗺️ GIS Integration for location services
-- 📅 Smart appointment booking system
-- 💬 Community forums for engagement
-- ⚖️ Legal case management module
-- 📊 Analytics dashboard for insights
-
-🔹 **Tech Stack:** `React` `Express.JS` `MongoDB` `Node.JS` `GIS API` `TailwindCSS`
-
-🔹 **Status:** ✅ Completed & Deployed
-
-</td>
-<td width="50%">
-
-### 📱 Social QR Code Generator
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300" align="right">
-
-**Interactive QR code generation tool**
-
-🔹 **Features:**
-- 🎨 Customizable QR designs
-- 📱 Social media integration
-- 🌈 Color theme options
-- 📊 Analytics tracking
-- 💾 Export in multiple formats
-
-🔹 **Tech Stack:** `HTML5` `CSS3` `JavaScript` `Canvas API`
-
-🔹 **Status:** ✅ Live & Featured
-
-</td>
-</tr>
-</table>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Learning Journey
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfab.gif" width="500">
-</div>
-
 ### 🎯 Current Learning Path
 
 ```mermaid
@@ -181,35 +124,6 @@ graph TD
     M --> O[Next.js]
     M --> P[Three.js]
 ```
-
-### 📚 Learning Progress
-
-<table>
-<tr>
-<td width="50%">
-
-**🔐 Cybersecurity Track**
-- ✅ Network Security Fundamentals
-- ✅ Ethical Hacking Basics
-- 🔄 SOC Analyst Training
-- 🔄 OWASP Top 10 Security Risks
-- ⏳ Incident Response Procedures
-- ⏳ Digital Forensics
-
-</td>
-<td width="50%">
-
-**☁️ Cloud & DevOps Track**
-- ✅ Linux System Administration
-- ✅ Git & Version Control
-- 🔄 AWS Cloud Practitioner
-- 🔄 Docker Containerization
-- ⏳ Kubernetes Orchestration
-- ⏳ CI/CD Pipeline Setup
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -293,53 +207,13 @@ graph TD
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Fun Facts & Personality
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 </div>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Personal Interests
-- 🎵 **Music Explorer** - Discovering cultures through melodies
-- 🧳 **Travel Enthusiast** - Collecting experiences worldwide
-- 📚 **Knowledge Seeker** - Always curious about new tech
-- 🎮 **Gaming Strategist** - Problem-solving through play
-- 🌱 **Nature Lover** - Finding balance in outdoor activities
-
-### 🎨 Creative Side
-- 🖌️ **Digital Art** - Creating visual stories
-- 📸 **Photography** - Capturing moments and memories
-- ✍️ **Technical Writing** - Sharing knowledge through words
-- 🎭 **UI/UX Design** - Crafting user-centered experiences
-
-</td>
-<td width="50%">
-
-### 🔮 Future Goals
-- 🚀 **Startup Founder** - Building innovative tech solutions
-- 🌍 **Global Impact** - Creating tools that make a difference
-- 🏆 **Industry Leader** - Becoming a recognized expert
-- 🤝 **Community Builder** - Fostering tech education
-- 📈 **Continuous Growth** - Never stop learning
-
-### 🎪 Random Facts
-- 🌟 **Favorite Time:** Late night coding sessions
-- 🍕 **Fuel:** Pizza and determination
-- 🎯 **Motto:** "Code today, conquer tomorrow"
-- 🦄 **Superpower:** Debugging complex issues
-- 🎸 **Hidden Talent:** Playing musical instruments
-
-</td>
-</tr>
-</table>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Weekly Development Activity
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
