@@ -187,19 +187,17 @@ graph TD
     </tr>
     <tr>
       <td align="center">
-        <a href="https://your-portfolio-url.com">
+        <a href="https://my-portfolio-sand-two-27.vercel.app/">
           <img src="https://img.shields.io/badge/Portfolio-FF9500?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF9500&color=FF9500" alt="Portfolio"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://twitter.com/yourusername">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" alt="Twitter"/>
+        <a href="https://x.com/VidushanSa80497">
+          <img src="https://img.shields.io/badge/X_(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=000000" alt="X (formerly Twitter)"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://discord.com/users/yourid">
-          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA&color=7289DA" alt="Discord"/>
-        </a>
+        <img src="https://img.shields.io/badge/Open_to_Work-28a745?style=for-the-badge&logo=handshake&logoColor=white&labelColor=28a745&color=28a745" alt="Open to Work"/>
       </td>
     </tr>
   </table>
@@ -208,35 +206,7 @@ graph TD
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-</div>
-
-
----
-
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
-</div>
-
-```text
-🟦 JavaScript    ████████████████████████████████████████   45.2%
-🟨 Python        ████████████████████████                   24.8%
-🟪 PHP           ████████████████                           15.1%
-🟧 HTML/CSS      ████████                                    8.3%
-🟩 SQL           ██████                                      6.6%
-```
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d4.gif" width="30"> Philosophy & Motivation
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20Smart.%20Analyze%20Deeply.%20Design%20with%20Empathy.&author=Vidushan%20Samarakoon&border=true&animation=fadeIn" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Innovation%20is%20not%20about%20saying%20yes%20to%20everything.%20It's%20about%20saying%20no%20to%20all%20but%20the%20most%20crucial%20features.&author=Steve%20Jobs&border=true&animation=fadeIn" />
 </div>
 
 ---
@@ -244,8 +214,8 @@ graph TD
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Profile Analytics
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=VshanX&icon=5&color=gradient" alt="Profile Views"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVshanX&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="GitHub Hits"/>
+  <img src="https://komarev.com/ghpvc/?username=VshanX&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVshanX&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Hits&edge_flat=false" alt="GitHub Hits"/>
 </div>
 
 <div align="center">
