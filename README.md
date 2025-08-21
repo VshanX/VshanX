@@ -16,10 +16,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=300&lines=🚀+TECH+EXPLORER+%26+INNOVATOR;💻+FULL-STACK+DEVELOPER+IN+TRAINING;🔐+CYBERSECURITY+ENTHUSIAST;🎨+UI%2FUX+DESIGN+PASSIONATE;📊+BUSINESS+ANALYSIS+FOCUSED;🌟+ALWAYS+LEARNING+%26+EVOLVING" alt="Dynamic Typing" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Coding Animation"/>
-</div>
-
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
