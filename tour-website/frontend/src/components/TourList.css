@@ -1,0 +1,250 @@
+.tour-list {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.tour-list-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.tour-list-header h2 {
+    color: #333;
+    font-size: 2rem;
+    margin: 0;
+}
+
+.refresh-btn {
+    background: #28a745;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background-color 0.3s ease;
+}
+
+.refresh-btn:hover {
+    background: #218838;
+}
+
+.loading, .error {
+    text-align: center;
+    padding: 2rem;
+    font-size: 1.1rem;
+}
+
+.error {
+    color: #dc3545;
+    background: #f8d7da;
+    border: 1px solid #f5c6cb;
+    border-radius: 4px;
+}
+
+.no-tours {
+    text-align: center;
+    padding: 3rem;
+    color: #6c757d;
+    background: #f8f9fa;
+    border-radius: 8px;
+}
+
+.tours-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 2rem;
+}
+
+.tour-card {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+}
+
+.tour-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.featured-badge {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: #ffc107;
+    color: #212529;
+    padding: 0.25rem 0.5rem;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    z-index: 1;
+}
+
+.tour-header {
+    background: linear-gradient(135deg, #007bff, #0056b3);
+    color: white;
+    padding: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.tour-header h3 {
+    margin: 0;
+    font-size: 1.3rem;
+    flex: 1;
+    margin-right: 1rem;
+}
+
+.difficulty {
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.difficulty.easy {
+    background: #28a745;
+    color: white;
+}
+
+.difficulty.moderate {
+    background: #ffc107;
+    color: #212529;
+}
+
+.difficulty.challenging {
+    background: #dc3545;
+    color: white;
+}
+
+.tour-content {
+    padding: 1.5rem;
+}
+
+.tour-category {
+    display: inline-block;
+    background: #e9ecef;
+    color: #495057;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin-bottom: 1rem;
+}
+
+.tour-description {
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+.tour-details {
+    background: #f8f9fa;
+    padding: 1rem;
+    border-radius: 6px;
+    margin: 1rem 0;
+}
+
+.detail-item {
+    margin-bottom: 0.5rem;
+    color: #495057;
+}
+
+.detail-item:last-child {
+    margin-bottom: 0;
+}
+
+.destinations, .included-services, .guide-info, .available-dates {
+    margin: 1rem 0;
+}
+
+.destinations strong, .included-services strong, .guide-info strong, .available-dates strong {
+    color: #333;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.destination-tags, .date-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.destination-tag, .date-tag {
+    background: #007bff;
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+}
+
+.more-dates {
+    background: #6c757d;
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+}
+
+.included-services ul {
+    margin: 0;
+    padding-left: 1.5rem;
+}
+
+.included-services li {
+    margin-bottom: 0.25rem;
+    color: #495057;
+}
+
+.guide-info {
+    color: #495057;
+}
+
+.tour-footer {
+    padding: 1rem 1.5rem;
+    background: #f8f9fa;
+    border-top: 1px solid #e9ecef;
+    color: #6c757d;
+    font-size: 0.9rem;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .tour-list {
+        margin: 1rem auto;
+        padding: 0 0.5rem;
+    }
+    
+    .tour-list-header {
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+    }
+    
+    .tours-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .tour-header {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    
+    .tour-header h3 {
+        margin-right: 0;
+    }
+    
+    .destination-tags, .date-tags {
+        justify-content: center;
+    }
+}
