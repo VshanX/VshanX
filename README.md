@@ -60,9 +60,9 @@ vision: |
 ```
 
 ### 🎯 Fun Stats
-- 📅 **Coding since:** 2022
+- 📅 **Coding since:** 2018
 - 🏆 **Projects completed:** 10+
-- 🌐 **Languages spoken:** 3
+- 🌐 **Languages spoken:** 2
 - ☕ **Coffee consumed:** ∞
 
 </td>
