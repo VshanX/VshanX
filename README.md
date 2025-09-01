@@ -27,7 +27,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🎯 Current Focus
-- 🎓 **Final-year HND in IT** at **SLIATE, Sri Lanka**
+- 🎓 **HND in IT completed** student at **SLIATE, Sri Lanka**
 - 🔍 **Actively seeking internships** in multiple domains
 - 📚 **Expanding knowledge** in cutting-edge technologies
 - 🌱 **Building practical projects** for real-world impact
