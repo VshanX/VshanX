@@ -100,29 +100,6 @@ vision: |
 
 ---
 
-### 🎯 Current Learning Path
-
-```mermaid
-graph TD
-    A[🔐 Cybersecurity] --> B[SOC Operations]
-    A --> C[Penetration Testing]
-    A --> D[OWASP Security]
-    
-    E[☁️ Cloud Computing] --> F[AWS Solutions]
-    E --> G[Docker & Kubernetes]
-    E --> H[DevOps Practices]
-    
-    I[📊 Data Science] --> J[Machine Learning]
-    I --> K[Data Visualization]
-    I --> L[Big Data Analytics]
-    
-    M[🎨 Advanced Frontend] --> N[React Native]
-    M --> O[Next.js]
-    M --> P[Three.js]
-```
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> GitHub Analytics
 
 <div align="center">
