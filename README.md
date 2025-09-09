@@ -207,7 +207,3 @@ vision: |
   <h3>Let's connect and create something extraordinary together! 🚀</h3>
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50">
 </div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
-</div>
