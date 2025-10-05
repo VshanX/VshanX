@@ -85,7 +85,7 @@ vision: |
 
 ### ⚙️ Backend & Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql,postgresql,firebase&theme=dark" />
 </div>
 
 ### 🛠️ Development Tools
@@ -97,7 +97,6 @@ vision: |
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows,photoshop,illustrator,blender,unity&theme=dark" />
 </div>
-
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> GitHub Analytics
