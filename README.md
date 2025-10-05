@@ -181,6 +181,16 @@ vision: |
 
 ---
 
+## ☕ Support Me
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/vidushan_thiwanka" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
+  </a>
+</div>
+
+---
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Profile Analytics
 
 <div align="center">
