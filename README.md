@@ -62,7 +62,7 @@ vision: |
 ### 🎯 Fun Stats
 - 📅 **Coding since:** 2018
 - 🏆 **Projects completed:** 10+
-- 🌐 **Languages spoken:** 2 (English, Sinhala)
+- 🌐 **Languages spoken:** 2
 - ☕ **Coffee consumed:** ∞
 
 </td>
@@ -103,56 +103,6 @@ vision: |
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-f554-4505-b7ea-5c32d2b994c9.gif" width="30"> Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🚀 Project Name 1</h3>
-<div align="center">  
-<a href="YOUR_PROJECT_LINK" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="400" alt="Project Demo"/>
-</a>
-<br>
-<br>
-<p>
-<a href="YOUR_GITHUB_REPO" target="_blank">
-<img src="https://img.shields.io/badge/Code-ff6b6b?style=for-the-badge&logo=github&logoColor=white"/>
-</a>  
-<a href="YOUR_LIVE_DEMO" target="_blank">
-<img src="https://img.shields.io/badge/Live-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-</p>
-<p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
-<p>Brief description of your amazing project and what problem it solves.</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">💼 Project Name 2</h3>
-<div align="center">  
-<a href="YOUR_PROJECT_LINK" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="400" alt="Project Demo"/>
-</a>
-<br>
-<br>
-<p>
-<a href="YOUR_GITHUB_REPO" target="_blank">
-<img src="https://img.shields.io/badge/Code-ff6b6b?style=for-the-badge&logo=github&logoColor=white"/>
-</a>  
-<a href="YOUR_LIVE_DEMO" target="_blank">
-<img src="https://img.shields.io/badge/Live-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-</p>
-<p><strong>Tech Stack:</strong> Laravel, MySQL, Bootstrap</p>
-<p>Brief description of your amazing project and what problem it solves.</p>
-</div>
-</td>
-</tr>
-</table>
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> GitHub Analytics
 
 <div align="center">
@@ -182,30 +132,6 @@ vision: |
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VshanX&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Commit,PullRequest,Review,Issues,Repositories,Stars" />
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="30"> Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@VshanX&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=00d4ff&layout=compact" />
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518289e9-e8d3-4d3c-82c5-2b4f1e5c8c7f.gif" width="30"> Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-  <a href="YOUR_BLOG_LINK">
-    <img src="https://img.shields.io/badge/Read_More-FF6B6B?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
-  </a>
 </div>
 
 ---
@@ -268,27 +194,9 @@ vision: |
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30"> Support My Work
-
-<div align="center">
-  <a href="YOUR_BUYMEACOFFEE_LINK">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-  <a href="YOUR_KOFI_LINK">
-    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-  </a>
-</div>
-
----
-
 <div align="center">
   
   <h2>🌟 Thanks for visiting my digital space! 🌟</h2>
   <h3>Let's connect and create something extraordinary together! 🚀</h3>
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50">
-  
-  <br>
-  <br>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
