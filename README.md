@@ -90,7 +90,7 @@ vision: |
 
 ### 🛠️ Development Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,netbeans,postman,docker,aws,vercel&theme=dark" />
 </div>
 
 ### 🔧 Additional Skills
