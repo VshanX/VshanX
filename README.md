@@ -96,10 +96,10 @@ vision: |
 ### 🔧 Additional Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows,photoshop,illustrator,blender,unity&theme=dark" />
-  <br/>
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut"/>
-  <img src="https://img.shields.io/badge/Filmora-00C4CC?style=for-the-badge&logo=wondershare&logoColor=white" alt="Filmora"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000" alt="CapCut"/>
+  <img src="https://img.shields.io/badge/Filmora-00C4CC?style=for-the-badge&logo=film&logoColor=white&labelColor=00A6B5" alt="Filmora"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=7D2AE8" alt="Canva"/>
 </div>
 
 ---
