@@ -1,0 +1,21 @@
+# Backend
+tour-website/backend/node_modules/
+tour-website/backend/.env
+tour-website/backend/npm-debug.log*
+tour-website/backend/yarn-debug.log*
+tour-website/backend/yarn-error.log*
+
+# Frontend
+tour-website/frontend/node_modules/
+tour-website/frontend/dist/
+tour-website/frontend/.env
+tour-website/frontend/npm-debug.log*
+tour-website/frontend/yarn-debug.log*
+tour-website/frontend/yarn-error.log*
+
+# General
+.DS_Store
+*.log
+*.tgz
+*.tar.gz
+.cache/
